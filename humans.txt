@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    IS4Business
+    www.is4business.ru
+
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Apache Server Configs, jQuery, Normalize.css
+    Brackets
